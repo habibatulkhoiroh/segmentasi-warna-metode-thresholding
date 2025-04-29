@@ -1,0 +1,1 @@
+# segmentasi-warna-metode-thresholding
